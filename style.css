@@ -44,16 +44,16 @@
 }
 
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .list__item, .title {
-  list-style:none;
+  list-style: none;
 }
 
 .task, .list__item-checkbox,.button{
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -157,14 +157,14 @@
 
 /* Edit Task */
 .list .list__item .task {
-  display:none
+  display: none
 }
 
 .list .edit-mode .task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list .edit-mode .task-label {
-  display:none;
+  display: none;
 }
